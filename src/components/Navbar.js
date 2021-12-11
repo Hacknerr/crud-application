@@ -6,7 +6,7 @@ import {faBars} from "@fortawesome/free-solid-svg-icons";
 
 const Navbar = () => {
     return (
-        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark">
             <div class="container">
                 <a class="navbar-brand" href="#">
                  <h3 class="logo">iMARS Project</h3>
